@@ -1,8 +1,11 @@
 import requests, re, json
+import os
 
-with open("function/yaowan/data.json", "r") as f:
-    data = json.load(f)
-cookies = data["cookies"]
+# 直接从环境变量获取 cookies
+cookies = {
+    "flarum_remember": os.getenv("FLARUM_REMEMBER"),
+    "flarum_session": os.getenv("FLARUM_SESSION")
+}
 
 def get_token(session):
     url = "https://invites.fun/"
