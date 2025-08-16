@@ -1,20 +1,14 @@
 
 <div align="center">
 <h1 align="center">My-Actions</h1>
-<img src="https://img.shields.io/github/issues/MayoBlueSky/My-Actions?color=green">
-<img src="https://img.shields.io/github/stars/MayoBlueSky/My-Actions?color=yellow">
-<img src="https://img.shields.io/github/forks/MayoBlueSky/My-Actions?color=orange">
-<img src="https://img.shields.io/github/license/MayoBlueSky/My-Actions?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/MayoBlueSky/My-Actions?color=blueviolet">
+<img src="https://img.shields.io/github/issues/wrtv/My-Actions?color=green">
+<img src="https://img.shields.io/github/stars/wrtv/My-Actions?color=yellow">
+<img src="https://img.shields.io/github/forks/wrtv/My-Actions?color=orange">
+<img src="https://img.shields.io/github/license/wrtv/My-Actions?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/wrtv/My-Actions?color=blueviolet">
 </div>
 
 个人收集并适配Github Actions的各类签到大杂烩
-## 不要fork了 ⭐️star就行 #
-
-[点这里加TG群](https://t.me/+bCXtiD4YI1ExNjE1) 
-
-需要什么签到可以去提[issues](https://github.com/MayoBlueSky/My-Actions/issues),也欢迎PR
-
 # 使用方式
 1. [新建仓库并同步代码](RepoSync.md)
 2. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到下一步。)
@@ -45,10 +39,3 @@
 [@chavyleung](https://github.com/chavyleung/)  
 [@Wenmoux](https://github.com/Wenmoux/)  
 [@NobyDa](https://github.com/NobyDa/)
-
-# 支持一下
-
-  ![支持一下](https://cdn.jsdelivr.net/gh/BlueskyClouds/Script@master/img/2021/05/25/img/wx.png)
-### 访问量
-
-![](http://profile-counter.glitch.me/MayoBlueSky/count.svg)
