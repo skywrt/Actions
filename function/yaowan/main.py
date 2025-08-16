@@ -1,6 +1,6 @@
 import requests, re, json
 
-with open("data.json", "r") as f:
+with open("function/yaowan/data.json", "r") as f:
     data = json.load(f)
 cookies = data["cookies"]
 
